@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666660132 source:c:\users\lucca\onedrive\documentos\github\ponteiro_cpp\ponteiro\main - copia.cpp
+
+1666660616 source:c:\users\lucca\onedrive\documentos\github\ponteiro_cpp\ponteiro\main.cpp
+	<iostream>
+	<locale.h>
+
